@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @RoniBasarab
-- 👀 I’m interested in 2D/3D Graphic Design Development, Game Development
+- 👀 I’m interested in Android Mobile development, Game development
 - 🌱 I’m currently learning B.Sc in Computer Science @ Holon Institute of Technology
 - 📫 How to reach me: ronibasarab@gmail.com
