@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @RoniBasarab
-- 👀 I’m interested in Android Mobile development, Game development
-- 🌱 I’m currently learning B.Sc in Computer Science @ Holon Institute of Technology
+- 👀 Android developer, Game developer
+- 🌱 B.Sc in Computer Science - Graduated
 - 📫 How to reach me: ronibasarab@gmail.com
